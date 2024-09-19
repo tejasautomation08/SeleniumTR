@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9BD02C-7CCB-4969-8A83-E7D536A77EED}|ConsoleApp4mtdOverloading\\ConsoleApp4mtdOverloading.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\consoleapp4mtdoverloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9BD02C-7CCB-4969-8A83-E7D536A77EED}|ConsoleApp4mtdOverloading\\ConsoleApp4mtdOverloading.csproj|solutionrelative:consoleapp4mtdoverloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C33D7D0-4011-4CB1-A9B1-D0F8AB22E7A7}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C33D7D0-4011-4CB1-A9B1-D0F8AB22E7A7}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C33D7D0-4011-4CB1-A9B1-D0F8AB22E7A7}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C33D7D0-4011-4CB1-A9B1-D0F8AB22E7A7}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\seleniumconcept2\\demo1fbsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\demo1fbsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\seleniumconcept2\\demo1fblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\demo1fblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F4FFF-5464-4C30-AC2F-F60D16A1DC59}|SeleniumConcept1\\SeleniumConcept1.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\seleniumconcept1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F4FFF-5464-4C30-AC2F-F60D16A1DC59}|SeleniumConcept1\\SeleniumConcept1.csproj|solutionrelative:seleniumconcept1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\seleniumconcept2\\seleniumconcept2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC77AAD-94EA-4436-B4A5-6FE7CCD589C9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\seleniumconcept2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198885E-087B-4BA7-AC7C-C734FBCC033F}|CSharpConcept3\\CSharpConcept3.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198885E-087B-4BA7-AC7C-C734FBCC033F}|CSharpConcept3\\CSharpConcept3.csproj|solutionrelative:csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\csharpconcept2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|solutionrelative:csharpconcept2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\csharpconcept2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|solutionrelative:csharpconcept2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|c:\\users\\6124436\\source\\repos\\automationsolution\\csharpconcept2\\csharpconcept2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2D540E37-508C-4D6B-A0C9-0DF2F4D78D60}|CSharpConcept2\\CSharpConcept2.csproj|solutionrelative:csharpconcept2\\csharpconcept2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\ConsoleApp4mtdOverloading\\Calculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4mtdOverloading\\Calculator.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\ConsoleApp4mtdOverloading\\Calculator.cs",
+              "RelativeToolTip": "ConsoleApp4mtdOverloading\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:44:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo1FBSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBSignUp.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo1FBSignUp.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBSignUp.cs",
+              "RelativeToolTip": "SeleniumConcept2\\Demo1FBSignUp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:47:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo1FBLogin.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo1FBLogin.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBLogin.cs",
+              "RelativeToolTip": "SeleniumConcept2\\Demo1FBLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:35:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeleniumConcept2",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\SeleniumConcept2.csproj",
+              "RelativeDocumentMoniker": "SeleniumConcept2\\SeleniumConcept2.csproj",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept2\\SeleniumConcept2.csproj",
+              "RelativeToolTip": "SeleniumConcept2\\SeleniumConcept2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T04:35:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept1\\Program.cs",
+              "RelativeDocumentMoniker": "SeleniumConcept1\\Program.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\SeleniumConcept1\\Program.cs",
+              "RelativeToolTip": "SeleniumConcept1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:06:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\EmployeeDashboard\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboard\\Employee.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\EmployeeDashboard\\Employee.cs",
+              "RelativeToolTip": "EmployeeDashboard\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:48:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRunner.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeRunner.cs",
+              "RelativeDocumentMoniker": "EmployeeDashboard\\EmployeeRunner.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeRunner.cs",
+              "RelativeToolTip": "EmployeeDashboard\\EmployeeRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:51:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept3\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpConcept3\\Program.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept3\\Program.cs",
+              "RelativeToolTip": "CSharpConcept3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:50:08.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\Area.cs",
+              "RelativeDocumentMoniker": "CSharpConcept2\\Area.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\Area.cs",
+              "RelativeToolTip": "CSharpConcept2\\Area.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:06:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CSharpConcept2",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\CSharpConcept2.csproj",
+              "RelativeDocumentMoniker": "CSharpConcept2\\CSharpConcept2.csproj",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\CSharpConcept2.csproj",
+              "RelativeToolTip": "CSharpConcept2\\CSharpConcept2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T11:54:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\Program2.cs",
+              "RelativeDocumentMoniker": "CSharpConcept2\\Program2.cs",
+              "ToolTip": "C:\\Users\\6124436\\source\\repos\\AutomationSolution\\CSharpConcept2\\Program2.cs",
+              "RelativeToolTip": "CSharpConcept2\\Program2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:59:50.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\bin\Debug\net8.0\CSharpConsept.exe
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\bin\Debug\net8.0\CSharpConsept.deps.json
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\bin\Debug\net8.0\CSharpConsept.runtimeconfig.json
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\bin\Debug\net8.0\CSharpConsept.dll
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\bin\Debug\net8.0\CSharpConsept.pdb
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.AssemblyInfoInputs.cache
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.AssemblyInfo.cs
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.csproj.CoreCompileInputs.cache
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.dll
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\refint\CSharpConsept.dll
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.pdb
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\CSharpConsept.genruntimeconfig.cache
+C:\Users\6124436\source\repos\AutomationSolution\CSharpConsept\obj\Debug\net8.0\ref\CSharpConsept.dll
